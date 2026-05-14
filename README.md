@@ -2,14 +2,14 @@
 
 AnirbanPay is a self-hosted, open-source payment automation platform by QubePlug.  
 Deploy it on your own server, customize your workflow, install plugins and themes, and stay fully in control — with no monthly fees.  
-Visit https://Anirbanpay.com/ for more information.
+Visit https://Anirban.softsasi.com/ for more information.
 
 ---
 
 ## 📦 Repository
 
 Official Open-Source Repository:  
-👉 https://github.com/AnirbanPay/AnirbanPay
+👉 https://github.com/Softsasi/AnirbanPay
 
 ---
 
