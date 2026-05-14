@@ -1,15 +1,15 @@
-# [PipraPay](https://piprapay.com) — Payment Automation Platform
+# [AnirbanPay](https://Anirbanpay.com) — Payment Automation Platform
 
-PipraPay is a self-hosted, open-source payment automation platform by QubePlug.  
+AnirbanPay is a self-hosted, open-source payment automation platform by QubePlug.  
 Deploy it on your own server, customize your workflow, install plugins and themes, and stay fully in control — with no monthly fees.  
-Visit https://piprapay.com/ for more information.
+Visit https://Anirbanpay.com/ for more information.
 
 ---
 
 ## 📦 Repository
 
 Official Open-Source Repository:  
-👉 https://github.com/PipraPay/PipraPay
+👉 https://github.com/AnirbanPay/AnirbanPay
 
 ---
 
@@ -17,14 +17,14 @@ Official Open-Source Repository:
 
 - Developer guides live in `docs/`:
   - Payment Gateway Plugins: [docs/Payment-Gateway-Plugins-Developer-Guide.md](docs/Payment-Gateway-Plugins-Developer-Guide.md)
-  - Module Plugins: [docs/PipraPay-Module-Plugin-Developer-Guide.md](docs/PipraPay-Module-Plugin-Developer-Guide.md)
+  - Module Plugins: [docs/AnirbanPay-Module-Plugin-Developer-Guide.md](docs/AnirbanPay-Module-Plugin-Developer-Guide.md)
 
-- PipraPay Plugins & Integrations Directory
+- AnirbanPay Plugins & Integrations Directory
   - Plugin Directory: [docs/Plugin-Directory.md](docs/Plugin-Directory.md)
 
-- Browse all docs: [[docs/](https://piprapay.readme.io/)]([docs/](https://piprapay.readme.io/))
-- API docs: https://piprapay.readme.io
-- Explore PipraPay Demo: https://demo.piprapay.com/admin/login  
+- Browse all docs: [[docs/](https://Anirbanpay.readme.io/)]([docs/](https://Anirbanpay.readme.io/))
+- API docs: https://Anirbanpay.readme.io
+- Explore AnirbanPay Demo: https://demo.Anirbanpay.com/admin/login  
   - username: `demo`  
   - password: `12345678`
 
@@ -46,7 +46,7 @@ Official Open-Source Repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PipraPay/PipraPay.git
+   git clone https://github.com/AnirbanPay/AnirbanPay.git
    ```
 
 2. Prepare your environment:
@@ -69,16 +69,16 @@ Official Open-Source Repository:
 
 ## 🛡️ Trademark Policy
 
-The PipraPay name, logo, and brand identity are trademarks of QubePlug.
+The AnirbanPay name, logo, and brand identity are trademarks of QubePlug.
 
 ### ✅ Allowed
-- Use PipraPay with original branding  
+- Use AnirbanPay with original branding  
 - Develop plugins, modules, and themes  
 - Contribute improvements  
 
 ### ❌ Not Allowed
 - Rebranding the system as another product  
-- Removing PipraPay branding and presenting as your own  
+- Removing AnirbanPay branding and presenting as your own  
 
 ---
 
@@ -95,6 +95,6 @@ We welcome community contributions:
 
 ## 🤷‍♂️ Community & Support
 
-- Website: https://piprapay.com/
-- Documentation: [docs/](https://piprapay.readme.io/)
-- Issues & Bug Reports: https://github.com/PipraPay/PipraPay/issues
+- Website: https://Anirbanpay.com/
+- Documentation: [docs/](https://Anirbanpay.readme.io/)
+- Issues & Bug Reports: https://github.com/AnirbanPay/AnirbanPay/issues
