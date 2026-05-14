@@ -71,16 +71,7 @@ Official Open-Source Repository:
 
 The AnirbanPay name, logo, and brand identity are trademarks of QubePlug.
 
-### ✅ Allowed
-- Use AnirbanPay with original branding  
-- Develop plugins, modules, and themes  
-- Contribute improvements  
 
-### ❌ Not Allowed
-- Rebranding the system as another product  
-- Removing AnirbanPay branding and presenting as your own  
-
----
 
 ## 🤝 Contributing
 
