@@ -1,4 +1,4 @@
-# [AnirbanPay](https://Anirbanpay.com) — Payment Automation Platform
+# [AnirbanPay](https://Anirban.softsasi.com) — Payment Automation Platform
 
 AnirbanPay is a self-hosted, open-source payment automation platform by QubePlug.  
 Deploy it on your own server, customize your workflow, install plugins and themes, and stay fully in control — with no monthly fees.  
@@ -13,20 +13,7 @@ Official Open-Source Repository:
 
 ---
 
-## 📖 Documentation
 
-- Developer guides live in `docs/`:
-  - Payment Gateway Plugins: [docs/Payment-Gateway-Plugins-Developer-Guide.md](docs/Payment-Gateway-Plugins-Developer-Guide.md)
-  - Module Plugins: [docs/AnirbanPay-Module-Plugin-Developer-Guide.md](docs/AnirbanPay-Module-Plugin-Developer-Guide.md)
-
-- AnirbanPay Plugins & Integrations Directory
-  - Plugin Directory: [docs/Plugin-Directory.md](docs/Plugin-Directory.md)
-
-- Browse all docs: [[docs/](https://Anirbanpay.readme.io/)]([docs/](https://Anirbanpay.readme.io/))
-- API docs: https://Anirbanpay.readme.io
-- Explore AnirbanPay Demo: https://demo.Anirbanpay.com/admin/login  
-  - username: `demo`  
-  - password: `12345678`
 
 ---
 
@@ -46,7 +33,7 @@ Official Open-Source Repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnirbanPay/AnirbanPay.git
+   git clone https://github.com/softsasi/AnirbanPay.git
    ```
 
 2. Prepare your environment:
@@ -60,10 +47,6 @@ Official Open-Source Repository:
 
 ---
 
-## 📚 License & Brand Protection
-
-- Licensed under **GNU Affero General Public License v3.0 (AGPL-3.0)**  
-- See [LICENSE](LICENSE)
 
 ---
 
@@ -86,6 +69,5 @@ We welcome community contributions:
 
 ## 🤷‍♂️ Community & Support
 
-- Website: https://Anirbanpay.com/
-- Documentation: [docs/](https://Anirbanpay.readme.io/)
-- Issues & Bug Reports: https://github.com/AnirbanPay/AnirbanPay/issues
+- Website: https://Anirban.softsasi.com/
+- Issues & Bug Reports: https://github.com/softsasi/AnirbanPay/issues
